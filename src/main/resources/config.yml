@@ -1,8 +1,0 @@
-prefix: "&8[&bParty&8] &r"
-max-party-size: 4
-invite-timeout-seconds: 60
-fight-timeout-seconds: 60
-rounds-to-win: 3
-require-equal-size: true
-# kit id used for /party fight when none is given (empty = first kit in PvPCore)
-default-kit: ""
